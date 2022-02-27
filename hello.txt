@@ -1,0 +1,10 @@
+这是第一次学Git，下载安装完git之后
+需要先设置用户签名，不然后面会出错
+设置完用户签名之后，c盘用户目录会多出一个.gitconfig文件
+hello,git!
+wwwwwwwww
+hello,git!
+hello,git!
+hello,git!
+hello,git!
+hello,git!
